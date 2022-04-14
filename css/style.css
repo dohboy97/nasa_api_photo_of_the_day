@@ -5,3 +5,17 @@ img{
 h1{
     font-size:50px
 }
+
+span {
+    display:block;
+    padding-top:10px
+}
+
+*{
+    text-align: center;
+}
+
+body{
+    margin-left:300px;
+    margin-right:300px
+}
